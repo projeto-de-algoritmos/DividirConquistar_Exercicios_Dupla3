@@ -15,6 +15,14 @@
 
 Questões sobre algoritmos Dividir e Conquistar resolvidos.
 
+- [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A)
+
+![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla3/assets/54439337/3f087bcb-0c08-48ae-a603-9a61d571213a)
+
+- [Helpful Maths](https://codeforces.com/problemset/problem/339/A)
+
+![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla3/assets/54439337/36e088ce-8f77-4b78-a492-0a6ee32a7bab)
+
 ## Tecnologias
 
 **Linguagens**: Python3.
