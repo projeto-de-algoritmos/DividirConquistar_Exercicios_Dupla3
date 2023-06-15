@@ -23,6 +23,10 @@ Questões sobre algoritmos Dividir e Conquistar resolvidos.
 
 ![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla3/assets/54439337/36e088ce-8f77-4b78-a492-0a6ee32a7bab)
 
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+
+![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla3/assets/54439337/978d3da4-2c0a-491f-bba5-b57c1340b079)
+
 ## Tecnologias
 
 **Linguagens**: Python3.
