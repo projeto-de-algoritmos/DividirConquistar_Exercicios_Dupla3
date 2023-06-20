@@ -11,7 +11,7 @@
 | 19/0091703 | Lucas Henrique Lima de Queiroz |
 | 19/0085291 | Caio César Oliveira            |
 
-## Descrição
+## Exercícios
 
 Questões sobre algoritmos Dividir e Conquistar resolvidos.
 
@@ -29,11 +29,8 @@ Questões sobre algoritmos Dividir e Conquistar resolvidos.
 
 ## Tecnologias
 
-**Linguagens**: Python3.
-
-## Exercícios
-
+**Linguagens**: Python3 e C.
 
 ## Link Vídeo
 
-- [Vídeo de Apresentação]()
+- [Vídeo de Apresentação](https://youtu.be/LoPD5STt5ww)
